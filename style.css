@@ -174,6 +174,7 @@ body{
 }
 .footer-box{
     padding: 20px;
+    /* font-size: 20px; */
 
 }
 .footer-box img{
@@ -182,10 +183,10 @@ body{
 }
 .footer-box .fa-solid{
     margin-right: 8px;
-    font-size: 25px;
-    height: 40px;
+    font-size: 10px;
+    height: 30px;
     background-image: linear-gradient(to right,#a517ba,#5f1782);
-    width: 40px;
+    width: 30px;
     text-align: center;
     padding-top: 7px;
     border-radius: 2px;
